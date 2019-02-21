@@ -1,0 +1,1616 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ever\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"POT-Revision-Date: Tue Feb 02 2016 15:26:20 GMT+0800 (Ulaanbaatar Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: themewaves <themewaves@gmail.com>\n"
+"Language-Team: Themewaves <themewaves@gmail.com>\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "Page not found."
+msgstr ""
+
+#: 404.php:10
+msgid "It Seems We Can't Find What You're Looking For. Perhaps Searching Can Help."
+msgstr ""
+
+#: 404.php:11
+msgid "Back Home"
+msgstr ""
+
+#: comments.php:6
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:33
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: content-grid.php:25 content-list.php:33 content-llist.php:35 content-masonry.php:26
+#: content.php:38 feature-area.php:67 framework/theme_functions.php:190
+#: framework/waves_widget/widget_post.php:55
+msgid "by"
+msgstr ""
+
+#: feature-area.php:91
+msgid "Browsing category"
+msgstr ""
+
+#: feature-area.php:94
+msgid "Search results for"
+msgstr ""
+
+#: feature-area.php:97
+msgid "Daily Archives"
+msgstr ""
+
+#: feature-area.php:100
+msgid "Monthly Archives"
+msgstr ""
+
+#: feature-area.php:103
+msgid "Yearly Archives"
+msgstr ""
+
+#: feature-area.php:107
+msgid "Author"
+msgstr ""
+
+#: feature-area.php:109
+msgid "Blog Archives"
+msgstr ""
+
+#: footer.php:10 framework/waves_options/theme-options.php:939
+#, php-format
+msgid "&copy; 2017 <a href=\"%s\">Ever Magazine Theme</a>. All rights reserved."
+msgstr ""
+
+#: framework/blog_functions.php:148
+msgid "All Dummy Data"
+msgstr ""
+
+#: framework/blog_functions.php:158
+msgid ""
+"After you imported demo then set the Main menu and Edit Main Categories and enable "
+"the Customize options."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:384
+#: framework/class-tgm-plugin-activation.php:827
+#: framework/class-tgm-plugin-activation.php:2533
+#: framework/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:385
+#: framework/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:386
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:515
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:632
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:934
+#: framework/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm-plugins.php:46
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/tgm-plugins.php:51
+msgid "Ever Core"
+msgstr ""
+
+#: framework/tgm-plugins.php:59
+msgid "Meks Time Ago"
+msgstr ""
+
+#: framework/tgm-plugins.php:64
+msgid "One Click Demo Import"
+msgstr ""
+
+#: framework/tgm-plugins.php:69
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/tgm-plugins.php:74
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: framework/tgm-plugins.php:79
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: framework/theme_functions.php:118 framework/waves_options/theme-options.php:987
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/theme_functions.php:120 framework/waves_options/theme-options.php:980
+msgid "Older Posts"
+msgstr ""
+
+#: framework/theme_functions.php:135 framework/waves_options/theme-options.php:994
+msgid "Prev"
+msgstr ""
+
+#: framework/theme_functions.php:136 framework/waves_options/theme-options.php:1001
+#: single.php:104
+msgid "Next"
+msgstr ""
+
+#: framework/theme_functions.php:145
+msgid "More Stories"
+msgstr ""
+
+#: framework/theme_functions.php:202
+msgid "Shares"
+msgstr ""
+
+#: framework/theme_functions.php:204
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework/theme_functions.php:205
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework/theme_functions.php:268
+msgid "Name *"
+msgstr ""
+
+#: framework/theme_functions.php:270
+msgid "Email *"
+msgstr ""
+
+#: framework/theme_functions.php:272
+msgid "Website"
+msgstr ""
+
+#: framework/theme_functions.php:300
+msgid "no comment"
+msgstr ""
+
+#: framework/theme_functions.php:302
+msgid "1 comment"
+msgstr ""
+
+#: framework/theme_functions.php:304
+msgid "comments"
+msgstr ""
+
+#: framework/theme_functions.php:315
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/theme_functions.php:319
+msgid "Page"
+msgstr ""
+
+#: framework/theme_functions.php:339
+msgid "Share this Post"
+msgstr ""
+
+#: framework/theme_functions.php:530
+msgid "Related posts"
+msgstr ""
+
+#: framework/waves_options/category-options.php:6
+msgid "Hide Category on the Front End"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:23
+msgid ""
+"Custom HTML or Shortcode anythings can be inserted. Example: Use WordPress Core "
+"Editor and Button Shortcode etc."
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:25
+#: framework/waves_options/metabox-render.php:76
+msgid "Delete Row"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:26
+#: framework/waves_options/metabox-render.php:77
+msgid "Up"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:27
+#: framework/waves_options/metabox-render.php:78
+msgid "Down"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:34
+msgid "Height"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:35
+msgid "Row Min Height"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:41
+msgid "Width"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:42
+msgid "Content Width"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:48
+msgid "Background Image"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:49
+msgid "Insert BG Image"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:51
+#: framework/waves_options/metabox-render.php:168
+msgid "Your Custom BG Image URL"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:52
+#: framework/waves_options/metabox-render.php:169
+msgid "Insert image"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:56
+msgid "Background Color"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:57
+msgid "Set your Color"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:84
+msgid "Assign Category"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:85
+msgid "You can only select 1 category!"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:96
+msgid "Pagination?"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:107
+msgid "Posts per page"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:109
+#: framework/waves_options/metabox-render.php:115
+msgid "Insert Only Digits here"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:113
+#: framework/waves_options/theme-options.php:307
+msgid "Excerpt word count"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:121
+msgid "Sidebar?"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:134
+msgid "Add Row Layout"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:135
+msgid "Add Custom Row"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:174
+#: framework/waves_options/metabox-render.php:298
+#: framework/waves_options/post-options.php:19
+#: framework/waves_options/post-options.php:48
+#: framework/waves_widget/widget_post.php:141
+msgid "Default"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:174
+msgid "True"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:174
+msgid "False"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:228
+msgid "Edit Icon"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:238
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:238
+msgid "Upload Images"
+msgstr ""
+
+#: framework/waves_options/metabox-render.php:295
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/waves_options/page-options.php:11
+msgid "All Category"
+msgstr ""
+
+#: framework/waves_options/page-options.php:19
+#: framework/waves_widget/widget_instagram.php:86
+msgid "Simple"
+msgstr ""
+
+#: framework/waves_options/page-options.php:20
+msgid "Grid"
+msgstr ""
+
+#: framework/waves_options/page-options.php:21
+msgid "Masonry"
+msgstr ""
+
+#: framework/waves_options/page-options.php:22
+msgid "List"
+msgstr ""
+
+#: framework/waves_options/page-options.php:23
+msgid "List right thumb"
+msgstr ""
+
+#: framework/waves_options/page-options.php:28
+msgid "Select slider layout?"
+msgstr ""
+
+#: framework/waves_options/page-options.php:34
+msgid "Slider None"
+msgstr ""
+
+#: framework/waves_options/page-options.php:38
+msgid "Slider 1"
+msgstr ""
+
+#: framework/waves_options/page-options.php:42
+msgid "Slider 2"
+msgstr ""
+
+#: framework/waves_options/page-options.php:46
+msgid "Slider 3"
+msgstr ""
+
+#: framework/waves_options/page-options.php:50
+msgid "Custom shortcode"
+msgstr ""
+
+#: framework/waves_options/page-options.php:56
+msgid "Select category?"
+msgstr ""
+
+#: framework/waves_options/page-options.php:67
+msgid "Slider Post Count?"
+msgstr ""
+
+#: framework/waves_options/page-options.php:70
+msgid "Insert only Digits here"
+msgstr ""
+
+#: framework/waves_options/page-options.php:78
+msgid "Custom shortcode?"
+msgstr ""
+
+#: framework/waves_options/page-options.php:81
+msgid "Example: [revslider id=\"3\"]"
+msgstr ""
+
+#: framework/waves_options/page-options.php:89
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/waves_options/page-options.php:92
+msgid ""
+"Choose Row and Add Row and assign Row Layout, You can also Delete! Note: If you "
+"selected All Categories then only 1 Row will enough and delete the other styles."
+msgstr ""
+
+#: framework/waves_options/page-options.php:106
+msgid "Page settings"
+msgstr ""
+
+#: framework/waves_options/post-format.php:10
+msgid "Insert Gallery Images"
+msgstr ""
+
+#: framework/waves_options/post-format.php:11
+msgid "If you set the Featured Image then it will be only shown on Single"
+msgstr ""
+
+#: framework/waves_options/post-format.php:18
+msgid "MP3 File URL"
+msgstr ""
+
+#: framework/waves_options/post-format.php:19
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: framework/waves_options/post-format.php:24
+msgid "Embeded Code"
+msgstr ""
+
+#: framework/waves_options/post-format.php:25
+msgid "The embed code"
+msgstr ""
+
+#: framework/waves_options/post-format.php:33
+msgid "Video Link URL"
+msgstr ""
+
+#: framework/waves_options/post-format.php:34
+msgid ""
+"If you're not using self hosted video then you can include video link url here. "
+"(Not Embed)"
+msgstr ""
+
+#: framework/waves_options/post-format.php:41
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/waves_options/post-format.php:42
+msgid "Audio Settings"
+msgstr ""
+
+#: framework/waves_options/post-format.php:43
+msgid "Video Settings"
+msgstr ""
+
+#: framework/waves_options/post-options.php:12
+msgid "Choose Post Single Layout"
+msgstr ""
+
+#: framework/waves_options/post-options.php:15
+#: framework/waves_options/post-options.php:44
+msgid "Default will follow the Theme Option setting."
+msgstr ""
+
+#: framework/waves_options/post-options.php:23
+#: framework/waves_options/theme-options.php:348
+#: framework/waves_options/theme-options.php:349
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/waves_options/post-options.php:27
+#: framework/waves_options/theme-options.php:353
+#: framework/waves_options/theme-options.php:354
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/waves_options/post-options.php:31
+#: framework/waves_options/theme-options.php:363
+#: framework/waves_options/theme-options.php:364
+msgid "Narrow Content"
+msgstr ""
+
+#: framework/waves_options/post-options.php:35
+#: framework/waves_options/theme-options.php:358
+#: framework/waves_options/theme-options.php:359
+msgid "Fullwidth Content"
+msgstr ""
+
+#: framework/waves_options/post-options.php:41
+msgid "Choose Featured Media Layout"
+msgstr ""
+
+#: framework/waves_options/post-options.php:52
+#: framework/waves_options/theme-options.php:265
+#: framework/waves_options/theme-options.php:266
+#: framework/waves_options/theme-options.php:377
+#: framework/waves_options/theme-options.php:378
+msgid "Featured area small"
+msgstr ""
+
+#: framework/waves_options/post-options.php:56
+#: framework/waves_options/theme-options.php:382
+#: framework/waves_options/theme-options.php:383
+msgid "Featured area large"
+msgstr ""
+
+#: framework/waves_options/post-options.php:60
+#: framework/waves_options/theme-options.php:270
+#: framework/waves_options/theme-options.php:271
+#: framework/waves_options/theme-options.php:275
+#: framework/waves_options/theme-options.php:276
+#: framework/waves_options/theme-options.php:280
+#: framework/waves_options/theme-options.php:281
+#: framework/waves_options/theme-options.php:285
+#: framework/waves_options/theme-options.php:286
+#: framework/waves_options/theme-options.php:387
+#: framework/waves_options/theme-options.php:388
+msgid "Featured area fullwidth"
+msgstr ""
+
+#: framework/waves_options/post-options.php:64
+#: framework/waves_options/theme-options.php:393
+msgid "Featured area None"
+msgstr ""
+
+#: framework/waves_options/post-options.php:72
+msgid "Post settings"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:32
+#: framework/waves_options/theme-options.php:33
+msgid "Theme Options"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:153
+msgid "Theme layout"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:154
+#: framework/waves_options/theme-options.php:166
+msgid ""
+"Your site will be Fullwidth or Boxed layout and If you want to edit background then "
+"Check the Color options."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:165
+msgid "Background options"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:173
+msgid "Upload Your Logo"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:174
+msgid ""
+"If no Logo Uploaded then Your Site Name will display your Logo section, Edit this "
+"option Settings -> General Tab"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:183
+msgid "Upload Your Favicon"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:184
+msgid "Default Fav icon is located in our ever/assets/img/favicon.ico"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:192
+msgid "Logo width & Header Search width (px)?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:198
+msgid "Enable Search on Header?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:199
+msgid "Switching this will enable or disable search on the menu."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:205
+msgid "Header menu height (px)?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:211
+msgid "Slider height (px)?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:212
+msgid "this option will control the height"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:218
+#: framework/waves_options/theme-options.php:219
+msgid "Slider Auto Play?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:225
+#: framework/waves_options/theme-options.php:226
+msgid "Slider Delay?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:233
+msgid "Scroll Up Menu?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:234
+msgid ""
+"If you scroll up while scrolling down menu there has an Our menu is displayed and "
+"you can disable it"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:240
+msgid "General"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:248
+msgid "Blog"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:255
+msgid "General Blog Pages & Categories Options"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:261
+msgid "Set Blog Layout"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:262
+#: framework/waves_options/theme-options.php:345
+msgid ""
+"You can set the Normal, Large Media or Fullwidth. You can override it on Blog "
+"Single section"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:295
+msgid "Blog sidebar"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:296
+msgid "Have a Sidebar ?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:306
+msgid "Blog excerpt?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:313
+msgid "Blog pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:314
+msgid "Pagination type ?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:326
+msgid "GIF auto play on Row Builder?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:327
+msgid "Gif can autoplay or Play Button on Homepage."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:338
+msgid "Blog Single Options"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:344
+msgid "Set Blog Single Layout"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:373
+msgid "Single media layout"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:374
+msgid "You can override it on Blog Single section"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:392
+msgid "Featured area none"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:402
+msgid "Sidebar Affix"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:403
+msgid "If you set this on Sidebar areas will be affixed."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:409
+msgid "GIF auto play on blog single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:410
+msgid "In the Blog Single it can be autplay or Play button"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:416
+msgid "Post share on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:417
+msgid "Social shares visible or not on Single Post area"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:423
+msgid "Next, Prev post on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:429
+msgid "Post cats on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:430
+msgid "Post categories"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:436
+msgid "Post meta on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:437
+msgid "Post date and author"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:443
+msgid "Post tags on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:444
+msgid "Tag on single"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:450
+msgid "Post author on single?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:451
+msgid "About author on single"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:463
+msgid "Color"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:470
+msgid "Primary Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:471
+msgid "This is your main Primary Color."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:477
+msgid "General Color"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:483
+msgid "Body Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:489
+msgid "Body Background"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:490
+msgid ""
+"This will works whole background area. If you chosen the Boxed Layout then it will "
+"work outside of Container area. It will not work if you have chosen Full Layout"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:498
+msgid "Extended Sidebar Menu Background"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:499
+msgid "Extended Sidebar Menu Background Color"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:508
+msgid "Heading Title Color (H1-H6)?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:514
+msgid "Blog Meta Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:515
+msgid "Post Share & Post Comment and Date?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:521
+#: framework/waves_options/theme-options.php:615
+msgid "Link Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:540
+msgid "Header Area Colors"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:546
+msgid "Header BG Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:553
+msgid "Header area text color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:554
+msgid "Note: menu,logo and search icon?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:560
+msgid "Menu hover color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:561
+msgid "If you want to disable it then set the same color for Header area text color."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:567
+msgid "SubMenu BG color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:574
+msgid "SubMenu Hover BG color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:581
+msgid "SubMenu Text color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:588
+msgid "SubMenu Hover Text color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:602
+msgid "Footer Area Colors"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:608
+msgid "Footer Text Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:631
+msgid "Set Social Icon Style Colors"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:637
+msgid "Light Social BG Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:647
+msgid "Light Social Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:657
+msgid "Silver Social BG Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:667
+msgid "Silver Social Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:677
+msgid "Dark Social BG Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:687
+msgid "Dark Social Color?"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:704
+msgid "Typography"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:711
+msgid "Body Font"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:712
+msgid "Site whole Text on Body area."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:731
+msgid "Main Menu Font"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:752
+msgid "SubMenu font size"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:773
+msgid "Post Meta Font"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:774
+msgid "Date time, comment count and share count."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:794
+msgid "Heading Title Font"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:795
+msgid "H1-H6 and any Post Titles."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:813
+msgid "Heading Title Tags Size"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:822
+msgid "H1"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:839
+msgid "H2"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:856
+msgid "H3"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:873
+msgid "H4"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:890
+msgid "H5"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:907
+msgid "H6"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:930
+msgid "Footer"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:937
+msgid "Footer Left Text"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:938
+msgid "You can use HTML tags on this area"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:944
+msgid ""
+"Enter social links. Example: facebook.com/themewaves. NOTE: Divide value sets with "
+"linebreak \"Enter\":"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:945
+msgid "Footer Socials"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:951
+msgid "Footer Social Style"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:952
+msgid "You can change the colors on Color Options Tab"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:964
+msgid "Translation"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:971
+msgid "Read more text on Slider"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:973
+msgid "Read more"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:978
+msgid "Older posts text on Pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:985
+msgid "Newer posts text on Pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:992
+msgid "Prev posts text on Numbered Pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:999
+msgid "Next posts text on Numbered Pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1006
+msgid "Load More on Infinite Pagination"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1008
+msgid "Load More"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1013
+msgid "Search placeholder"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1015 functions.php:169 header-area.php:12
+msgid "Search..."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1020
+#: framework/waves_options/theme-options.php:1027
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1028
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1035
+msgid "Ads management"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1043
+msgid "Single Content Above"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1044
+msgid ""
+"It will be displayed above the Single Content, You can insert anything Ad or custom "
+"image or text anything."
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1055
+msgid "Blog Page Above"
+msgstr ""
+
+#: framework/waves_options/theme-options.php:1056
+msgid ""
+"It will be displayed above the Blog Page, You can insert anything Ad or custom "
+"image or text anything."
+msgstr ""
+
+#: framework/waves_options/user-options.php:9
+msgid "User Socials"
+msgstr ""
+
+#: framework/waves_options/user-options.php:11
+msgid ""
+"Enter social links. Example:facebook.com/themewaves. NOTE: Divide value sets with "
+"linebreak \"Enter\":"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:12
+msgid "Ever: Instagram"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:12
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:60
+msgid "Instagram"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:67
+#: framework/waves_widget/widget_socials.php:53
+msgid "Title"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:68
+msgid "Username"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:69
+msgid "Number of photos"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:70
+msgid "Photo size"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:72
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:73
+msgid "Small"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:74
+msgid "Large"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:75
+msgid "Original"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:78
+msgid "Open links in"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:80
+msgid "New window (_blank)"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:81
+msgid "Current window (_self)"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:84
+msgid "Layout"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:87
+msgid "Carousel"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:91
+msgid "Carousel Auto Play:"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:121
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:124
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:131
+#: framework/waves_widget/widget_instagram.php:136
+#: framework/waves_widget/widget_instagram.php:140
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:157
+msgid "Instagram Image"
+msgstr ""
+
+#: framework/waves_widget/widget_instagram.php:187
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:112
+msgid "Title:"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:116
+msgid "Post order:"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:118
+msgid "Latest posts"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:119
+msgid "Popular posts"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:120
+msgid "Most commented posts"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:123
+msgid "If you were not selected for cats, it will show all categories."
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:135
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:139
+msgid "Post layout:"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:142
+msgid "Carousel posts"
+msgstr ""
+
+#: framework/waves_widget/widget_post.php:146
+msgid "Height(px), when Post layout is default "
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:6
+msgid "Displays your social profile."
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:57
+msgid "Select Style"
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:59
+msgid "Silver"
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:60
+msgid "Light"
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:61
+msgid "Dark"
+msgstr ""
+
+#: framework/waves_widget/widget_socials.php:65
+msgid ""
+"Enter social links. Example: facebook.com/themewaves. NOTE: Divide value sets with "
+"linebreak \"Enter\""
+msgstr ""
+
+#: functions.php:26
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: functions.php:27
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: functions.php:28
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: functions.php:29
+msgid "Saving..."
+msgstr ""
+
+#: functions.php:66
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:132
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Mobile sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Search"
+msgstr ""
+
+#: search.php:18
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:22
+msgid "For best search results, mind the following suggestions:"
+msgstr ""
+
+#: search.php:24
+msgid "Always double check your spelling."
+msgstr ""
+
+#: search.php:25
+msgid "Try similar keywords, for example: tablet instead of laptop."
+msgstr ""
+
+#: search.php:26
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: single.php:87
+msgid "Previous"
+msgstr ""

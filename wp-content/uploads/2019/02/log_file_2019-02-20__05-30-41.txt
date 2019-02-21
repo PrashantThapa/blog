@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: All Dummy Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/blog
+Data file = C:\xampp\htdocs\blog/wp-content/uploads/2019/02/demo-content-import-file_2019-02-20__05-30-41.xml
+Widget file = C:\xampp\htdocs\blog/wp-content/uploads/2019/02/demo-widgets-import-file_2019-02-20__05-30-41.json
+Customizer file = not defined!
+Redux files:
+ever_redux -> C:\xampp\htdocs\blog/wp-content/uploads/2019/02/demo-redux-import-file_0-2019-02-20__05-30-41.json 
+
+
+---Importing widgets---
+cs-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Ever: Socials - Follow Us - Widget already exists
+Ever: Recent posts - Recent posts - Widget already exists
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+Ever: Instagram - Instagram - Widget already exists
+
+cs-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Ever: Recent posts - Trending - Widget already exists
+
+Default sidebar : 
+
+Search - No Title - Widget already exists
+Ever: Recent posts - Trending - Widget already exists
+Ever: Socials - Follow Us - Widget already exists
+Ever: Instagram - Instagram - Widget already exists
+Categories - No Title - Widget already exists
+Ever: Recent posts - No Title - Widget already exists
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+
+Mobile sidebar : 
+
+Search - No Title - Widget already exists
+Ever: Recent posts - Popular Posts - Widget already exists
+Categories - Category List - Widget already exists
+Ever: Socials - Follow Us - Widget already exists
+Ever: Instagram - Instagram - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: ever_redux finished successfully!
+
+---pt-ocdi/after_import---
+
